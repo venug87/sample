@@ -1,7 +1,5 @@
 /*#region Colors*/
-
 /*#endregion*/
-
 @media screen and (max-width: 890px) {
   .head-sec {
     height: 90px;
@@ -12,7 +10,7 @@
     top: -10px !important;
   }
   .nav-bar a {
-    display: block !important;
+    display: none !important;
     width: 100vw !important;
     background-color: #1E1D1C;
     float: clear !important;
@@ -23,11 +21,6 @@
     left: 45vw !important;
     width: 60px;
     height: 60px;
-  }
-  .humberger {
-    width: 48px;
-    float: right;
-    display: block;
   }
   .careers {
     display: none;
