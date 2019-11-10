@@ -1,0 +1,14 @@
+@mixin margin($value...) {
+  margin: $value;
+}
+
+@mixin padding($value...) {
+  padding: $value;
+}
+
+@mixin fontsize($value) {
+  font-size: $value;
+}
+@mixin border($value) {
+  border-radius: $value;
+}
